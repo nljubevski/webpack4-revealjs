@@ -1,0 +1,10 @@
+/* */
+/* user defined css goes here
+/* */
+
+.logo {
+    width: 128px;
+    height: 128px;
+    float: right;
+    background-image: url("img/html5_logo.png");
+}
